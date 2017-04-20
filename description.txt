@@ -1,0 +1,1 @@
+tell application "com.Growl.GrowlHelperApp"
